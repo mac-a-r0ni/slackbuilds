@@ -4,3 +4,7 @@ Specification, to save you from duplicating the same snippet
 of logic in every Python utility you write that deals with
 user cache, configuration, or data files. It has no external
 dependencies.
+
+NOTE: This SlackBuild is legacy software, the latest release
+is here:
+https://slackbuilds.org/repository/15.0/python/python3-xdg-base-dirs/

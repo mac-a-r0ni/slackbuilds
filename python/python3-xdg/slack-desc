@@ -8,10 +8,10 @@
            |-----handy-ruler------------------------------------------------------|
 python3-xdg: python3-xdg (Variables defined by the XDG Base Directory Spec)
 python3-xdg:
+python3-xdg: Python module for accessing XDG Base Directory paths, simplifying
+python3-xdg: handling of user cache, configuration, and data files.
 python3-xdg:
-python3-xdg:
-python3-xdg:
-python3-xdg:
+python3-xdg: Homepage: https://github.com/srstevenson/xdg-base-dirs
 python3-xdg:
 python3-xdg:
 python3-xdg:
